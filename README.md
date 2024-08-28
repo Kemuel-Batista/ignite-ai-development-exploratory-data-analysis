@@ -26,3 +26,9 @@ Isso nos ajuda a ter uma visão detalhada das características de uma variável 
 Conceitualmente falando, um outlier é um dado que é muito diferente dos outros dados em um certo conjunto, é como um ponto fora da curva. Por exemplo, imagine que você tem um conjunto de dados que registre a altura de 100 pessoas. A média das alturas dessas pessoas é de 1,70m. Um outlier seria uma pessoa que tem, por exemplo, 2,50m de altura. Se essa pessoa é muito mais alta do que as outras, então ela é considerada nesse conjunto de dados como um outlier.
 
 Os outliers podem ser causados por vários fatores. Pode ser um erro de medição, um dado que seja incompleto ou até um evento aleatório. Eles podem afetar os resultados de uma análise de dados, então é importante identificá-los e lidá-los de maneira adequada. Vou fornecer para vocês algumas técnicas, algumas dicas de como a gente lida com os outliers. O primeiro tópico é identificar e documentar esses outliers. Então é importante a gente compreender essa natureza dos outliers, registá-los adequadamente para que a gente possa colocar isso dentro da nossa análise junto com os outros processos que a gente está fazendo na nossa análise exploratória.
+
+### Automatizando EDA (Análise e exploração de dados)
+
+- Aumento da velocidade e da eficiência: a EDA automatizada, ela pode ser executada muito mais rapidamente do que a manual. Isso pode ser importante para conjuntos de dados grandes ou complexos.
+- Redução da subjetividade: a EDA automatizada é menos propensa a erros ou os viesses humanos. Isso pode levar a análises mais precisas e confiáveis.
+- Melhor compreensão dos dados: A EDA automatizada pode identificar alguns padrões, algumas tendências, que podem não ser óbvios para os analistas humanos. Isso pode ajudar a ter uma melhor compreensão dos dados, tomar melhores decisões, a partir do momento que a gente tem uma amplitude maior de análises sendo construídas.

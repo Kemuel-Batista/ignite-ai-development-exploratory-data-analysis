@@ -4,12 +4,15 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-pandas = "*"
 matplotlib = "*"
 scipy = "*"
+sweetviz = "*"
+numpy = "*"
+pandas = "*"
+uninstall = "*"
 
 [dev-packages]
 
 [requires]
-python_version = "3.12"
-python_full_version = "3.12.4"
+python_version = "3.11"
+python_full_version = "3.11.1"
